@@ -1,0 +1,11 @@
+/adp-ecom/.gitattributes
+/.gitignore
+/adp-ecomm.iml
+/compiler.xml
+/encodings.xml
+/jarRepositories.xml
+/maven-wrapper.properties
+/misc.xml
+/modules.xml
+/mvnw
+/mvnw.cmd
