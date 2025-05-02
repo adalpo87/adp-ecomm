@@ -9,3 +9,13 @@
 /modules.xml
 /mvnw
 /mvnw.cmd
+/.idea/.gitignore
+/.idea/adp-ecomm.iml
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/jarRepositories.xml
+/adp-ecom/.mvn/wrapper/maven-wrapper.properties
+/.idea/misc.xml
+/.idea/modules.xml
+/adp-ecom/mvnw
+/adp-ecom/mvnw.cmd
